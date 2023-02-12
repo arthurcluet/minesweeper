@@ -1,0 +1,15 @@
+C:\Users\arthur\source\repos\Minesweeper\Minesweeper\bin\Release\Minesweeper.exe.config
+C:\Users\arthur\source\repos\Minesweeper\Minesweeper\bin\Release\Minesweeper.exe
+C:\Users\arthur\source\repos\Minesweeper\Minesweeper\bin\Release\Minesweeper.pdb
+C:\Users\arthur\source\repos\Minesweeper\Minesweeper\obj\Release\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\arthur\source\repos\Minesweeper\Minesweeper\obj\Release\MainWindow.g.cs
+C:\Users\arthur\source\repos\Minesweeper\Minesweeper\obj\Release\App.g.cs
+C:\Users\arthur\source\repos\Minesweeper\Minesweeper\obj\Release\Minesweeper_MarkupCompile.cache
+C:\Users\arthur\source\repos\Minesweeper\Minesweeper\obj\Release\Minesweeper_MarkupCompile.lref
+C:\Users\arthur\source\repos\Minesweeper\Minesweeper\obj\Release\MainWindow.baml
+C:\Users\arthur\source\repos\Minesweeper\Minesweeper\obj\Release\Minesweeper.g.resources
+C:\Users\arthur\source\repos\Minesweeper\Minesweeper\obj\Release\Minesweeper.Properties.Resources.resources
+C:\Users\arthur\source\repos\Minesweeper\Minesweeper\obj\Release\Minesweeper.csproj.GenerateResource.cache
+C:\Users\arthur\source\repos\Minesweeper\Minesweeper\obj\Release\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\arthur\source\repos\Minesweeper\Minesweeper\obj\Release\Minesweeper.exe
+C:\Users\arthur\source\repos\Minesweeper\Minesweeper\obj\Release\Minesweeper.pdb
