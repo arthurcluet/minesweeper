@@ -1,2 +1,2 @@
 # Csharp Minesweeper
- C# Minesweeper
+ C# implementation of the minesweeper game
